@@ -20,6 +20,6 @@ class prueba2
 	    resultado = numeroUno - numeroDos;
 
 	
-	    System.out.printf(" vivi el la cuenta y el resultado es %d * %d = %d", numeroUno,numeroDos,resultado);
+	    System.out.printf(" vivi el la cuenta y el resultado es %d - %d = %d", numeroUno,numeroDos,resultado);
     }
 }
